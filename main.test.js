@@ -1,4 +1,4 @@
-import { sum } from './main';
+import { sum } from './dist/main';
 
 describe('sum tests', () => {
   it('should add 2 numbers together', () => {
